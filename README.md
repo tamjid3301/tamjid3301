@@ -3,3 +3,5 @@
 - Country: Bangladesh
 - Hobbies: Cracking,Pushing.
 Ethical hacker. 
+
+Python,Java,c++,php
