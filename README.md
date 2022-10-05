@@ -1,3 +1,3 @@
 -  Hi, I’m @tamjid3301
 - Country: Bangladesh
-- Hobbies: Scripting, Cracking, Pushing, Hacking  
+- Hobbies: Scripting, Cracking, Pushing 
